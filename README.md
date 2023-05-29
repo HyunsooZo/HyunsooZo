@@ -3,12 +3,17 @@
  <img src="https://komarev.com/ghpvc/?username=HyunsooZo&style=flat-square&color=4479A1" alt=""/>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=666666&fontAlign=50&fontAlignY=30&text=HyunsooZo&desc=Backend(developer)&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=666666&fontAlign=50&fontAlignY=30&text=HyunsooZo&desc=BackendDeveloper&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
 
 #### 👨‍💻 About Me:
 
-- Hi! I'm Hyunsoo Jo who loves learning and programming with Java and Spring Boot. <br>
-I'm fluent in both English(proficient) and Korean(native). Thanks for checking out my LinkedIn bio!
+- 👋 Hello! I'm HyunsooZo, a junior backend developer.
+
+- 💡 I enjoy leveraging various technologies and tools to work on development projects, with a focus on continuous improvement and collaboration.
+- 📚 I have a strong commitment to learning new technologies and staying up-to-date with the latest trends in development. This allows me to enhance my skills and grow as a developer.
+- 🌟 As a junior backend developer, I am dedicated to building a solid foundation and gaining diverse experiences in the field. My ultimate goal is to contribute to the development of better software products and services.
+
+I am passionate about continuous growth, learning, and contributing to the development of efficient and collaborative software products and services. If you have any inquiries or opportunities, please feel free to <a href="mailto:bzhs1992@icloud.com">contact me</a>. I look forward to connecting with you!
 
 ---
 
@@ -29,10 +34,10 @@ I'm fluent in both English(proficient) and Korean(native). Thanks for checking o
 #### 🔥 My Stats:
 
 <div style="display: flex; align-items: flex-start;">
-  <span style = "height : 150px">
-    <img src="https://github-readme-stats.vercel.app/api?username=HyunsooZo" alt="GitHub Stats" style="width: 450px; object-fit: contain; height: 150px" />
+  <span style = "height : 160px">
+    <img src="https://github-readme-stats.vercel.app/api?username=HyunsooZo" alt="GitHub Stats" style="width: 450px; object-fit: contain; height: 160px" />
   </span>  
-  <span style = "height : 150px ; width ">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunsooZo&layout=compact" alt="Top Languages" style="width: 390px; object-fit: contain; height: 150px" />
+  <span style = "height : 160px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunsooZo&layout=compact" alt="Top Languages" style="width: 390px; object-fit: contain; height: 160px" />
   </span>
 </div>
