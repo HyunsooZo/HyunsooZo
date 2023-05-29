@@ -28,10 +28,9 @@ I'm fluent in both English(proficient) and Korean(native). Thanks for checking o
 
 #### 🔥 My Stats:
 
-
 <div style="display: flex; align-items: flex-start;">
   <span style = "height : 150px">
-    <img src="https://github-readme-stats.vercel.app/api?username=HyunsooZo" alt="GitHub Stats" style="width: 100%; object-fit: contain; height: 100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HyunsooZo" alt="GitHub Stats" style="width: 50%%; object-fit: contain; height: 100%" />
   </span>  
   <span style = "height : 150px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunsooZo&layout=compact" alt="Top Languages" style="width: 100%; object-fit: contain; height: 100%" />
