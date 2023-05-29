@@ -1,9 +1,7 @@
-<div align="left">
+<div align="right">
   <a href="https://HyunsooZo.github.io/"><img src="https://img.shields.io/badge/-HyunsooZo.github.io-lightgray?style=for-the-badge%22"/></a>
  <img src="https://komarev.com/ghpvc/?username=HyunsooZo&style=flat-square&color=4479A1" alt=""/>
 </div>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=666666&fontAlign=50&fontAlignY=30&text=HyunsooZo&desc=BackendDeveloper&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
 
 #### 👨‍💻 About Me:
 
