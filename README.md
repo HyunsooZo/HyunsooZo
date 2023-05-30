@@ -1,14 +1,14 @@
 <div align="right">
   <a href="https://HyunsooZo.github.io/"><img src="https://img.shields.io/badge/-HyunsooZo.github.io-lightgray?style=for-the-badge%22"/></a>
  <img src="https://komarev.com/ghpvc/?username=HyunsooZo&style=flat-square&color=4479A1" alt=""/>
-</div>
+ </div>
 
 #### 👨‍💻 About Me:
 
 - 👋 Hello! I'm HyunsooZo, a junior backend developer.
 
-- 💡 I enjoy leveraging various technologies and tools to work on development projects, with a focus on continuous improvement and collaboration.
 - 📚 I have a strong commitment to learning new technologies and staying up-to-date with the latest trends in development. This allows me to enhance my skills and grow as a developer.
+
 - 🌟 As a junior backend developer, I am dedicated to building a solid foundation and gaining diverse experiences in the field. My ultimate goal is to contribute to the development of better software products and services.
 
 I am passionate about continuous growth, learning, and contributing to the development of efficient and collaborative software products and services. If you have any inquiries or opportunities, please feel free to <a href="mailto:bzhs1992@icloud.com">contact me</a>. I look forward to connecting with you!
