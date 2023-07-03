@@ -36,6 +36,6 @@ I am passionate about continuous growth, learning, and contributing to the devel
     <img src="https://github-readme-stats.vercel.app/api?username=HyunsooZo" alt="GitHub Stats" style="width: 450px; object-fit: contain; height: 160px" />
   </span>  
   <span style = "height : 160px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunsooZo&layout=compact" alt="Top Languages" style="width: 390px; object-fit: contain; height: 160px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunsooZo&layout=compact&hide=html" alt="Top Languages" style="width: 390px; object-fit: contain; height: 160px" />
   </span>
 </div>
