@@ -1,26 +1,18 @@
 <div align="right">
   <a href="https://HyunsooZo.github.io/"><img src="https://img.shields.io/badge/-HyunsooZo.github.io-lightgray?style=for-the-badge%22"/></a>
- <img src="https://komarev.com/ghpvc/?username=HyunsooZo&style=flat-square&color=4479A1" alt=""/>
+  <a href="mailto:bzhs1992@icloud.com"><img src="https://img.shields.io/badge/Email-25A162?style=flat-square&logo=Gmail&logoColor=white"/></a> 
+  <img src="https://komarev.com/ghpvc/?username=HyunsooZo&style=flat-square&color=4479A1" alt=""/>
+
  </div>
 
 #### 👨‍💻 About Me:
+- 👋 다국어 소통이 가능한 백엔드 개발자 (한국어/English(advanced)/português(intermédio))
 
-- 👋 안녕하세요! 저는 주니어 백엔드 개발자 HyunsooZo입니다.
+- 📚 새로운 기술을 배우고 개발 분야의 최신 트렌드를 따라가며 지속적으로 성장하는 개발자
 
-- 📚 새로운 기술을 배우고 개발 분야의 최신 트렌드를 따라가는 것에 대한 강한 의지로 늘 개발자로서 성장 하려고 노력합니다.
+- 🌟 효율적이고 체계적인 프로그래밍을 추구하며 소프트웨어 설계에 열정을 가진 개발자
 
-- 🌟 주니어 백엔드 개발자로서의 제 목표는 각 기술들에 대한 견고한 기반을 구축하고 다양한 경험을 쌓는 것입니다. 제 궁극적인 목표는 더 나은 소프트웨어 제품과 서비스의 발전에 기여하는 것입니다.
-
-저는 지속적인 성장, 학습, 효율적이고 협업적인 소프트웨어 제품과 서비스의 개발에 열정을 가지고 있습니다. 질문이 있으시면 언제든지 <a href="mailto:bzhs1992@icloud.com">연락</a> 주세요!
-
-- 👋 Hello! I'm HyunsooZo, a junior backend developer.
-
-- 📚 I have a strong commitment to learning new technologies and staying up-to-date with the latest trends in development. This allows me to enhance my skills and grow as a developer.
-
-- 🌟 As a junior backend developer, I am dedicated to building a solid foundation and gaining diverse experiences in the field. My ultimate goal is to contribute to the development of better software products and services.
-
-I am passionate about continuous growth, learning, and contributing to the development of efficient and collaborative software products and services. If you have any inquiries or opportunities, please feel free to <a href="mailto:bzhs1992@icloud.com">contact me</a>. I look forward to connecting with you!
-
+- 🧘🏻‍♂️ 몰입하고 집중하여 문제 해결과 개발 과정을 완성하는 개발자
 ---
 
 #### 🛠 Tech Stack:
