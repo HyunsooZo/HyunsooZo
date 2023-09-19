@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="https://HyunsooZo.github.io/"><img src="https://img.shields.io/badge/-HyunsooZo.github.io-lightgray?style=for-the-badge%22"/></a>
+  <a href="https://HyunsooZo.github.io/"><img src="https://img.shields.io/badge/-HyunsooZo.github.io-lightgray?style=for-the-badge%22" target="_blank"/></a>
   <a href="mailto:bzhs1992@icloud.com"><img src="https://img.shields.io/badge/Email-25A162?style=flat-square&logo=Gmail&logoColor=white"/></a> 
   <img src="https://komarev.com/ghpvc/?username=HyunsooZo&style=flat-square&color=4479A1" alt=""/>
 
