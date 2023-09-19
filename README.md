@@ -18,18 +18,16 @@
 #### 🛠 Tech Stack:
 ![java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![spring boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black)
+![spring boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
 ![apache tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=white)
 
-![spring security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=black)
+![spring security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white)
 ![json web tokens](https://img.shields.io/badge/Json%20Web%20Tokens-000000?style=flat-square&logo=Json%20Web%20Tokens&logoColor=white)
 
 ![mariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![spring JPA](https://img.shields.io/badge/Spring%20JPA-6DB33F?style=flat-square&logo=Spring%20JPA&logoColor=white)
-![SMTP](https://img.shields.io/badge/SMTP-CC0000?style=flat-square&logo=Gmail&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 
 ![assertj](https://img.shields.io/badge/AssertJ-25A162?style=flat-square&logo=AssertJ&logoColor=white)
 ![mockito](https://img.shields.io/badge/Mockito-008D62?style=flat-square&logo=Mockito&logoColor=white)
@@ -39,7 +37,6 @@
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white)
 ![eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white)
 ![visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-![intellij idea](https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
 
 ---
 
