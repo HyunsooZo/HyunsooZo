@@ -1,7 +1,7 @@
 <div align="right">
   <a href="https://HyunsooZo.github.io/"><img src="https://img.shields.io/badge/-HyunsooZo.github.io-lightgray?style=for-the-badge%22" target="_blank"/></a>
-  <a href="mailto:bzhs1992@icloud.com"><img src="https://img.shields.io/badge/Contact-25A162?style=flat-square&logo=ProtonMail&logoColor=white"/></a> 
-  <img src="https://komarev.com/ghpvc/?username=HyunsooZo&style=flat-square&color=4479A1" alt=""/>
+  <a href="mailto:bzhs1992@icloud.com"><img src="https://img.shields.io/badge/Contact-25A162?style=flat&logo=ProtonMail&logoColor=white"/></a> 
+  <img src="https://komarev.com/ghpvc/?username=HyunsooZo&style=flat&color=4479A1" alt=""/>
 
  </div>
 
@@ -16,27 +16,27 @@
 ---
 
 #### 🛠 Tech Stack:
-![java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![spring boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
-![apache tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=white)
-
-![spring security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white)
-![json web tokens](https://img.shields.io/badge/Json%20Web%20Tokens-000000?style=flat-square&logo=Json%20Web%20Tokens&logoColor=white)
-
-![mariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-![spring JPA](https://img.shields.io/badge/Spring%20JPA-6DB33F?style=flat-square&logo=Spring%20JPA&logoColor=white)
-
-![assertj](https://img.shields.io/badge/AssertJ-25A162?style=flat-square&logo=AssertJ&logoColor=white)
-![mockito](https://img.shields.io/badge/Mockito-008D62?style=flat-square&logo=Mockito&logoColor=white)
-
-![intellij idea](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
-![postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
-![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white)
-![eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white)
-![visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
+![spring boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white)
+![apache tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=white)
+<br>
+![spring security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=Spring%20Security&logoColor=white)
+![json web tokens](https://img.shields.io/badge/Json%20Web%20Tokens-000000?style=flat&logo=Json%20Web%20Tokens&logoColor=white)
+<br>
+![mariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white)
+![spring JPA](https://img.shields.io/badge/Spring%20JPA-6DB33F?style=flat&logo=Spring%20JPA&logoColor=white)
+<br>
+![assertj](https://img.shields.io/badge/AssertJ-25A162?style=flat&logo=AssertJ&logoColor=white)
+![mockito](https://img.shields.io/badge/Mockito-008D62?style=flat&logo=Mockito&logoColor=white)
+<br>
+![intellij idea](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white)
+![postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
+![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)
+![eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white)
+![visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
 ---
 
