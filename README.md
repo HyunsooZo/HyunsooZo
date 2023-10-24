@@ -20,7 +20,6 @@
 ![java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![spring boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white)
-![apache tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=white)
 <br>
 ![spring security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=Spring%20Security&logoColor=white)
 ![json web tokens](https://img.shields.io/badge/Json%20Web%20Tokens-000000?style=flat&logo=Json%20Web%20Tokens&logoColor=white)
@@ -35,15 +34,12 @@
 ![EC2](https://img.shields.io/badge/ec2-FF9900?&logo=amazonec2&logoColor=white) 
 ![RDS](https://img.shields.io/badge/rds-527FFF?&logo=amazonrds&logoColor=white) 
 ![S3](https://img.shields.io/badge/S3-569A31?&logo=amazons3&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-F05032?&logo=git&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-2088FF?&logo=Jenkins&logoColor=white)
 <br>
 ![intellij idea](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)
 ![eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white)
-![visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 <br>
 ![assertj](https://img.shields.io/badge/AssertJ-25A162?style=flat&logo=AssertJ&logoColor=white)
 ![mockito](https://img.shields.io/badge/Mockito-008D62?style=flat&logo=Mockito&logoColor=white)
