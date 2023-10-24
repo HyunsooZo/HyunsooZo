@@ -8,11 +8,12 @@
 #### 👨‍💻 About Me:
 - 🗣 다국어 소통 및 협업이 가능한 기획자 출신 백엔드 개발자 (🇰🇷/🇺🇸/🇧🇷/🇵🇹)
 
-- 📚 새로운 기술을 배우고 개발 분야의 최신 트렌드를 따라가며 지속적으로 성장하는 개발자
+- 📚 무엇이든 관심이 생기면 빠르게 도전하고 실행하며, 공부하는 것을 좋아하는 개발자
 
 - 📐 효율적이고 체계적인 프로그래밍을 추구하며 소프트웨어 설계에 열정을 가진 개발자
 
 - 🧘🏻‍♂️ 몰입하고 집중하여 문제 해결과 개발 과정을 완성하는 개발자
+
 ---
 
 #### 🛠 Tech Stack:
@@ -29,14 +30,23 @@
 ![redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white)
 ![spring JPA](https://img.shields.io/badge/Spring%20JPA-6DB33F?style=flat&logo=Spring%20JPA&logoColor=white)
 <br>
-![assertj](https://img.shields.io/badge/AssertJ-25A162?style=flat&logo=AssertJ&logoColor=white)
-![mockito](https://img.shields.io/badge/Mockito-008D62?style=flat&logo=Mockito&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white) 
+![AWS](https://img.shields.io/badge/aws-232F3E?&logo=amazonaws&logoColor=white) 
+![EC2](https://img.shields.io/badge/ec2-FF9900?&logo=amazonec2&logoColor=white) 
+![RDS](https://img.shields.io/badge/rds-527FFF?&logo=amazonrds&logoColor=white) 
+![S3](https://img.shields.io/badge/S3-569A31?&logo=amazons3&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-F05032?&logo=git&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-2088FF?&logo=Jenkins&logoColor=white)
 <br>
 ![intellij idea](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)
 ![eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white)
 ![visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
+<br>
+![assertj](https://img.shields.io/badge/AssertJ-25A162?style=flat&logo=AssertJ&logoColor=white)
+![mockito](https://img.shields.io/badge/Mockito-008D62?style=flat&logo=Mockito&logoColor=white)
 
 ---
 
