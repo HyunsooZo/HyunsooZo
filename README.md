@@ -11,7 +11,7 @@
 - Native in **Korean** 🇰🇷, fluent in **English** 🇺🇸 and **Portuguese** 🇵🇹🇧🇷, equipped for global collaboration.
 
 #### 🔭 Experience
-- **Hanpass Co., Ltd.** 2023.12 - current
+- **Hanpass Co., Ltd.** DEC 2023 - current
 
 #### 🛠 Tech Stack:
 - ![java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![spring boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white)
