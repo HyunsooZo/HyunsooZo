@@ -7,7 +7,7 @@
 
 #### 👨‍💻 About Me:
 
-- I specialize in **efficient** and **systematic** programming with `Spring Boot` and `Java`.
+- I am passionate about and specialize in **efficient** and **systematic** programming with `Spring Boot` and `Java`.
 - Native in **Korean** 🇰🇷, fluent in **English** 🇺🇸 and **Portuguese** 🇵🇹🇧🇷, equipped for global collaboration.
 
 #### 🔭 Experience
