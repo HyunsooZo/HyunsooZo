@@ -7,11 +7,11 @@
 
 #### 👨‍💻 About Me:
 
-- I am passionate about and specialize in **efficient** and **systematic** programming with `Spring Boot` and `Java`.
-- Native in **Korean** 🇰🇷, fluent in **English** 🇺🇸 and **Portuguese** 🇵🇹🇧🇷, equipped for global collaboration.
+- I'm passionate about and specialize in **Efficient** and **Systematic** programming with **`Spring Boot`** and **`Java`**.
+- Native in **Korean** 🇰🇷, fluent in **English** 🇺🇸 and **Portuguese** 🇵🇹🇧🇷, well-prepared for both domestic and global collaboration.
 
 #### 🔭 Experience
-- **Hanpass Co., Ltd.** DEC 2023 - current
+- **Hanpass Co., Ltd.** | Backend Engineer | December 2023 - Present
 
 #### 🛠 Tech Stack:
 - ![java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![spring boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white)
