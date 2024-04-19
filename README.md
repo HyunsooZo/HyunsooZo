@@ -5,15 +5,15 @@
 
  </div>
 
-#### 👨‍💻 About Me:
+### 👨‍💻 About Me:
 
 - I'm passionate about and specialize in **Efficient** and **Systematic** programming with **`Spring Boot`** and **`Java`**.
 - Native in **Korean** 🇰🇷, fluent in **English** 🇺🇸 and **Portuguese** 🇵🇹🇧🇷, well-prepared for both domestic and global collaboration.
 
-#### 🔭 Experience
+### 🔭 Experience
 - **Backend Engineer** | Hanpass Co., Ltd. | *Dec 2023 - Present*
 
-#### 🛠 Tech Stack:
+### 🛠 Tech Stack:
 - ![java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![spring boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white)
 ![spring security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=Spring%20Security&logoColor=white)
 ![json web tokens](https://img.shields.io/badge/JWT-000000?style=flat&logo=Json%20Web%20Tokens&logoColor=white)<br>
