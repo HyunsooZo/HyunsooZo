@@ -13,7 +13,7 @@
 ### 🔭 Experience
 - **Backend Engineer** | Hanpass Co., Ltd. | *Dec 2023 - Present*
 
-### 🖱 Skills:
+### 💻 Skills:
 - ![java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![spring boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white)
 ![spring security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=Spring%20Security&logoColor=white)
 ![json web tokens](https://img.shields.io/badge/JWT-000000?style=flat&logo=Json%20Web%20Tokens&logoColor=white)<br>
