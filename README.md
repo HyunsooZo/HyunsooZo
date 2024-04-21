@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me:
 
 - I'm passionate about and specialize in **Efficient** and **Systematic** programming with **`Spring Boot`** and **`Java`**.
-- Native in **Korean** 🇰🇷, fluent in **English** 🇺🇸 and **Portuguese** 🇵🇹🇧🇷, well-prepared for both domestic and global collaboration.
+- Native in **Korean** 🇰🇷, fluent in **English** 🇺🇸 and **Portuguese** 🇵🇹🇧🇷, well-prepared for both domestic and international collaboration.
 
 ### 🔭 Experience
 - **Backend Engineer** | Hanpass Co., Ltd. | *Dec 2023 - Present*
