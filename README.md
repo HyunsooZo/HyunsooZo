@@ -20,7 +20,9 @@
 ![mariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white)
-![spring JPA](https://img.shields.io/badge/Spring%20JPA-6DB33F?style=flat&logo=Spring%20JPA&logoColor=white)<br>
+![spring JPA](https://img.shields.io/badge/Spring%20JPA-6DB33F?style=flat&logo=Spring%20JPA&logoColor=white)
+![Jooq](https://img.shields.io/badge/Jooq-00B4CC?style=flat&logo=Jooq&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-4682B4?style=flat&logo=QueryDSL&logoColor=white)<br>
 ![AWS](https://img.shields.io/badge/aws-232F3E?&logo=amazonaws&logoColor=white) 
 ![EC2](https://img.shields.io/badge/ec2-FF9900?&logo=amazonec2&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white) 
