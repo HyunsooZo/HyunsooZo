@@ -9,9 +9,8 @@ passionate about and specialize in ***Efficient*** and ***Systematic*** programm
 ### 👣 Experience
 **Backend Engineer** | Hanpass Co., Ltd. | *Dec 2023 - Present*
 
-### 🤹‍♂️ Skills:
-![java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![webFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=flat&logo=spring&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![ts](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![vuejs](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+### 🤹‍♂️ Skills 
+![java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) <br>![js](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![ts](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white) ![vuejs](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 #### 🔥 My Stats:
 <div style="display: flex; align-items: flex-start;">
