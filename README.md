@@ -1,5 +1,5 @@
 ### 👨‍💻 About Me:
-passionate about and specialize in ***Efficient*** and ***Systematic*** programming<br>
+Passionate about and specialize in ***Efficient*** and ***Systematic*** programming<br>
 **Korean** native, fluent in **English** and **Portuguese** — ready for seamless collaboration locally and globally
 <div align="left">
   <a href="https://bzhs1992s-organization.gitbook.io/hyunsoozos-til"><img src="https://img.shields.io/badge/-blog-yellow?style=for-the-badge%22" target="_blank"/></a>
