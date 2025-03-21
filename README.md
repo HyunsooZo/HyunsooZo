@@ -1,7 +1,6 @@
 ### 👨‍💻 About Me:
-***Efficient*** and ***Systematic*** Backend Engineer 🛠
+***Efficient*** and ***Systematic*** Backend Engineer 🛠 
 
-- Native Korean, fluent in English and Portuguese
 - Passionate about sharing knowledge on my [GitBook Blog](https://bzhs1992.gitbook.io/hyunsoo-dev)
 - Feel free to reach me via [Email](mailto:bzhs1992@icloud.com) or [LinkedIn](https://www.linkedin.com/in/hyunsoo-jo-605554186/)
 ### 👣 Experience
