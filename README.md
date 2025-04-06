@@ -1,6 +1,8 @@
 ### 👨‍💻 About Me:
-***Efficient*** and ***Systematic*** Backend Engineer 🛠 
+***Efficient*** and ***Systematic*** Backend Engineer 🛠 (🇰🇷 🇧🇷 🇺🇸)
 
+- Constantly learning and growing Backend Engineer
+- Not afraid to dive into unfamiliar territories and acquire new skills
 - Passionate about sharing knowledge on my [GitBook Blog](https://bzhs1992.gitbook.io/hyunsoo-dev)
 - Feel free to reach me via [Email](mailto:bzhs1992@icloud.com) or [LinkedIn](https://www.linkedin.com/in/hyunsoo-jo-605554186/)
 ### 👣 Experience
