@@ -1,15 +1,13 @@
-### 👨‍💻 About Me:
-***Efficient*** and ***Systematic*** Backend Engineer 🛠 (🇰🇷 🇧🇷 🇺🇸)
+### 🌐 Find Me Online
+ [![GitBook](https://img.shields.io/badge/GitBook-📚_Blog-orange?style=for-the-badge&logo=gitbook&logoColor=white)](https://bzhs1992.gitbook.io/hyunsoo-dev)<br>
+ [![Email](https://img.shields.io/badge/Email-✉️_Contact-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:bzhs1992@icloud.com) <br>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-💼_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyunsoo-jo-605554186/)
 
-- Constantly learning and growing Backend Engineer
-- Not afraid to dive into unfamiliar territories and acquire new skills
-- Passionate about sharing knowledge on my [GitBook Blog](https://bzhs1992.gitbook.io/hyunsoo-dev)
-- Feel free to reach me via [Email](mailto:bzhs1992@icloud.com) or [LinkedIn](https://www.linkedin.com/in/hyunsoo-jo-605554186/)
 ### 👣 Experience
 **Backend Engineer** | Hanpass Co., Ltd. | *Dec 2023 - Present*
 
 ### 🤹‍♂️ Skills 
-![java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) <br>![js](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![ts](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white) ![vuejs](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![vuejs](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 ### 🔥 My Stats:
 <div style="display: flex; align-items: flex-start;">
