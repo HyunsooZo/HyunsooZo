@@ -7,7 +7,7 @@
 **Backend Engineer** | Hanpass Co., Ltd. | *Dec 2023 - Present*
 
 ### 🤹‍♂️ Skills 
-![java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![vuejs](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![vuejs](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 
 ### 🔥 My Stats:
 <div style="display: flex; align-items: flex-start;">
