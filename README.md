@@ -1,10 +1,11 @@
 ### 🌐 Find Me Online
- [![GitBook](https://img.shields.io/badge/GitBook-📚_Blog-orange?style=for-the-badge&logo=gitbook&logoColor=white)](https://bzhs1992.gitbook.io/hyunsoo-dev)<br>
- [![Email](https://img.shields.io/badge/Email-✉️_Contact-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:bzhs1992@icloud.com) <br>
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-💼_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyunsoo-jo-605554186/)
+ [![GitBook](https://img.shields.io/badge/GitBook-📚_Blog-orange?style=flat-square&logo=gitbook&logoColor=white)](https://bzhs1992.gitbook.io/hyunsoo-dev)<br>
+ [![Email](https://img.shields.io/badge/Email-✉️_Contact-blue?style=fflat-square&logo=mail.ru&logoColor=white)](mailto:bzhs1992@icloud.com) <br>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-💼_Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyunsoo-jo-605554186/)
 
 ### 📦 Open Source Projects
- [![Maven Central](https://img.shields.io/badge/Maven_Central-🚀_ExcelNinja-green?style=for-the-badge&logo=apachemaven&logoColor=white)](https://central.sonatype.com/artifact/io.github.excel-ninja/excelNinja/overview)
+[![Maven Central](https://img.shields.io/badge/Maven_Central-🚀_ExcelNinja-green?style=flat-square&logo=apachemaven&logoColor=white)](https://central.sonatype.com/artifact/io.github.excel-ninja/excelNinja/overview)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/--181717?style=flat-square&logo=github&logoColor=white)](https://github.com/excel-ninja/excel-ninja-toolkit)
 
 ### 👣 Experience
 **Backend Engineer** | Hanpass Co., Ltd. | *Dec 2023 - Present*
