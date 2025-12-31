@@ -9,7 +9,7 @@
 
 ### 🚀 Live Services
 **[Signly](https://signly.kr)**  
-· 전자 서명 서비스 <br>· Electronic Signature Platform  
+· 전자 서명 서비스 <br>· Electronic Signature Service  
 
 ### 👣 Experience
 **Backend Engineer** | Hanpass Co., Ltd. | *Dec 2023 - Present*
