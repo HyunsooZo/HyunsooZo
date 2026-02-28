@@ -10,10 +10,6 @@
 **[JSON to Java/Kotlin Object](https://plugins.jetbrains.com/plugin/29796-json-to-java-kotlin-object/edit/versions/stable/936620)** | [GitHub](https://github.com/ninja-plugins/json-to-objects)  
 · IntelliJ에서 JSON을 Java/Kotlin 객체(Class/Record)로 즉시 변환해주는 플러그인 <br>· IntelliJ plugin that converts JSON into Java/Kotlin DTO classes instantly
 
-### 🚀 Live Services
-**[Signly](https://signly.kr)**  
-· 간편 전자 서명 서비스 <br>· Electronic Signature Service  
-
 ### 👣 Experience
 **Backend Engineer** | Hanpass Co., Ltd. | *Dec 2023 - Present*
 
